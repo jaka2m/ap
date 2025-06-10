@@ -1,0 +1,14 @@
+{
+  "name": "ip-checker-api",
+  "version": "1.0.0",
+  "description": "API to check IP status via proxy",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "author": "Your Name (Optional)",
+  "license": "ISC"
+}
